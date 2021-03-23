@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900"
+      rel="stylesheet"
+    />
+
+    <title>Reflux HTML CSS Template</title>
+<!--
+Reflux Template
+https://templatemo.com/tm-531-reflux
+-->
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css" />
+    <link rel="stylesheet" href="assets/css/templatemo-style.css" />
+    <link rel="stylesheet" href="assets/css/owl.css" />
+    <link rel="stylesheet" href="assets/css/lightbox.css" />
+  </head>
+
+  <body>
+    <div id="page-wraper">
+      <!-- Sidebar Menu -->
+      <div class="responsive-nav">
+        <i class="fa fa-bars" id="menu-toggle"></i>
+        <div id="menu" class="menu">
+          <i class="fa fa-times" id="menu-close"></i>
+          <div class="container">
+            <div class="image">
+              <a href="#"><img src="assets/images/author-image.jpg" alt="" /></a>
+            </div>
+            <div class="author-content">
+              <h4>BHUMIKA BISHT</h4>
+              <span></span>
+            </div>
+            <nav class="main-nav" role="navigation">
+              <ul class="main-menu">
+                <li><a href="#section1">About Me</a></li>
+                <li><a href="#section2">MADHUBANI ART</a></li>
+                <li><a href="#section3">WARLI ART</a></li>
+                <li><a href="#section4">KALAMKARI ART</a></li>
+                <li><a href="#section5">Contact Me</a></li>
+              </ul>
+            </nav>
+            <div class="social-network">
+              <ul class="soial-icons">
+                <li>
+                  <a href="https://fb.com/templatemo"
+                    ><i class="fa fa-facebook"></i
+                  ></a>
+                </li>
+                <li>
+                  <a href="#"><i class="fa fa-twitter"></i></a>
+                </li>
+                <li>
+                  <a href="#"><i class="fa fa-whatsapp"></i></a>
+                </li>
+              </ul>
+            </div>
+            <div class="copyright-text">
+              <p>Copyright 2021 Reflux Design</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+      <section class="section about-me" data-section="section1">
+        <div class="container">
+          <div class="section-heading">
+            <h2>ABOUT</h2>
+            <div class="line-dec"></div>
+            <span
+              >My name is BHUMIKA Bisht . Here , I will tell you about some of the famous INDIAN PAINTING styles  .</span
+            >
+          </div>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="service-item">
+                <p style="text-align: center"><b>MADHUBANI</b><br><br>
+                  <img src="assets/images/madhubani.jpg" alt="" />
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="service-item">
+                <p style="text-align: center"><b>WALRI</b><br><br>
+                  <img src="assets/images/warli.jpg" alt="" />
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="service-item">
+                <p style="text-align: center"><b>KALAMKARI</b><br><br>
+                  <img src="assets/images/kalamkari.jpg" alt="" />
+                </p>
+              </div>
+            </div>
+        </div>      
+      </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <section class="section MADHUBANI ART" data-section="section2">
+        <div class="container">
+          <div class="section-heading">
+            <h2>MADHUBANI ARTWORK</h2>
+            <div class="line-dec"></div>
+          <div class="left-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-image">
+                  <img src="assets/images/portfolio-01.jpg" alt="" />
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-text">
+                  <p>
+                    Madhubani art (or Mithila painting) is a style of Indian painting, practiced in the Mithila region of the Indian subcontinent. 
+                    This painting is done with a variety of tools, including fingers, twigs, brushes, nib-pens, and matchsticks and using natural dyes and pigments. 
+                    It is characterised by its eye-catching geometrical patterns.
+                     There is ritual content for particular occasions, such as birth or marriage, and festivals, such as Holi, Surya Shasti, Kali Puja, Upanayana, and Durga Puja.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="right-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-text">
+                  <p>
+                    Madhubani painting (Mithila painting) was traditionally created by the women of various communities in the Mithila region of the Indian subcontinent.
+                     It originated from Madhubani district of the Mithila region of Bihar. 
+                     Madhubani is also a major export center of these paintings.
+                     This painting as a form of wall art was practiced widely throughout the region; the more recent development of painting on paper and canvas mainly originated among the villages around Madhubani, and it is these latter developments that led to the term "Madhubani art" being used alongside "Mithila Painting.
+                  </p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-image">
+                  <img src="assets/images/portfolio-02.jpg" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+
+
+
+
+
+
+
+
+
+      <section class="section WARLI ART" data-section="section3">
+        <div class="container">
+          <div class="section-heading">
+            <h2>WARLI ARTWORK</h2>
+            <div class="line-dec"></div>
+          <div class="left-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-image">
+                  <img src="assets/images/portfolio-03.jpg" alt="" />
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-text">
+                  <p>
+                    Warli painting is a form of tribal art mostly created by the tribal people from the North Sahyadri Range in Maharashtra, India. 
+                    This range encompasses cities such as Dahanu, Talasari, Jawhar, Palghar, Mokhada, and Vikramgad of Palghar district. 
+                    This tribal art was originated in Maharashtra, where it is still practiced today.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="right-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-text">
+                  <p>
+                    The Warli Painting tradition in Maharashtra are among the finest examples of the folk style of paintings. 
+                    The Warli tribe is one of the largest in India, located outside of Mumbai. 
+                    Despite being close to one of the largest cities in India, the Warli reject much of contemporary culture.
+                     The style of Warli painting was not recognised until the 1970s, even though the tribal style of art is thought to date back as early as 10th century A.D..
+                      The Warli culture is centered on the concept of Mother Nature and elements of nature are often focal points depicted in Warli painting. 
+                    Farming is their main way of life and a large source of food for the tribe. 
+                  </p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-image">
+                  <img src="assets/images/portfolio-04.jpg" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+
+
+
+
+
+
+
+
+
+
+      <section class="section KALAMKARI ART" data-section="section4">
+        <div class="container">
+          <div class="section-heading">
+            <h2>KALAMKARI ARTWORK</h2>
+            <div class="line-dec"></div>
+          <div class="left-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-image">
+                  <img src="assets/images/portfolio-05.jpg" alt="" />
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-text">
+                  <p>
+                    Kalamkari is a type of hand-painted or block-printed cotton textile produced in Isfahan, Iran, and in the Indian state of Andhra Pradesh. 
+                    Only natural dyes are used in Kalamkari, which involves twenty-three steps.
+                   There are two distinctive styles of Kalamkari art in India – Srikalahasti style and the Machilipatnam style.
+                   
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="right-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-text">
+                  <p>
+                    This 3000-year-old organic art of hand and block printing was traditionally used for making narrative scrolls and panels. 
+                    This exquisite folk art has a strong connect with Persian motifs. 
+                    Kalamkari derives its name from kalam or pen and is a legacy that has been handed down from generation to generation in Andhra Pradesh. 
+                    The stylised animal forms, floral motifs and mehrab designs predominant in Kalamkari paintings have also found a place in Kalamkari textiles. 
+                    Kalamkari art primarily involves earthy colours like indigo, green, rust, black and mustard. 
+                  </p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-image">
+                  <img src="assets/images/portfolio-06.jpg" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <section class="section contact-me" data-section="section5">
+        <div class="container">
+          <div class="section-heading">
+            <h2>Contact Me</h2>
+            <div class="line-dec"></div>
+          </div>
+          <div class="row">
+            <div class="right-content">
+              <div class="container">
+                <form id="contact" action="" method="post">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <fieldset>
+                        <input
+                          name="name"
+                          type="text"
+                          class="form-control"
+                          id="name"
+                          placeholder="Your name..."
+                          required=""
+                        />
+                      </fieldset>
+                    </div>
+                    <div class="col-md-6">
+                      <fieldset>
+                        <input
+                          name="email"
+                          type="text"
+                          class="form-control"
+                          id="email"
+                          placeholder="Your email..."
+                          required=""
+                        />
+                      </fieldset>
+                    </div>
+                    <div class="col-md-12">
+                      <fieldset>
+                        <input
+                          name="subject"
+                          type="text"
+                          class="form-control"
+                          id="subject"
+                          placeholder="Subject..."
+                          required=""
+                        />
+                      </fieldset>
+                    </div>
+                    <div class="col-md-12">
+                      <fieldset>
+                        <textarea
+                          name="message"
+                          rows="6"
+                          class="form-control"
+                          id="message"
+                          placeholder="Your message..."
+                          required=""
+                        ></textarea>
+                      </fieldset>
+                    </div>
+                    <div class="col-md-12">
+                      <fieldset>
+                        <button type="submit" id="form-submit" class="button">
+                          Send Message
+                        </button>
+                      </fieldset>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+
+
+
+
+
+
+
+
+    <!-- Scripts -->
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <script src="assets/js/isotope.min.js"></script>
+    <script src="assets/js/owl-carousel.js"></script>
+    <script src="assets/js/lightbox.js"></script>
+    <script src="assets/js/custom.js"></script>
+    <script>
+      //according to loftblog tut
+      $(".main-menu li:first").addClass("active");
+
+      var showSection = function showSection(section, isAnimate) {
+        var direction = section.replace(/#/, ""),
+          reqSection = $(".section").filter(
+            '[data-section="' + direction + '"]'
+          ),
+          reqSectionPos = reqSection.offset().top - 0;
+
+        if (isAnimate) {
+          $("body, html").animate(
+            {
+              scrollTop: reqSectionPos
+            },
+            800
+          );
+        } else {
+          $("body, html").scrollTop(reqSectionPos);
+        }
+      };
+
+      var checkSection = function checkSection() {
+        $(".section").each(function() {
+          var $this = $(this),
+            topEdge = $this.offset().top - 80,
+            bottomEdge = topEdge + $this.height(),
+            wScroll = $(window).scrollTop();
+          if (topEdge < wScroll && bottomEdge > wScroll) {
+            var currentId = $this.data("section"),
+              reqLink = $("a").filter("[href*=\\#" + currentId + "]");
+            reqLink
+              .closest("li")
+              .addClass("active")
+              .siblings()
+              .removeClass("active");
+          }
+        });
+      };
+
+      $(".main-menu").on("click", "a", function(e) {
+        e.preventDefault();
+        showSection($(this).attr("href"), true);
+      });
+
+      $(window).scroll(function() {
+        checkSection();
+      });
+    </script>
+  </body>
+</html>
